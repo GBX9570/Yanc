@@ -1,9 +1,8 @@
-# YAUC
-Yet Another Unix Clone
-* Pronounced Y-ow-k
+# YANC
+Yet Another Nine Clone
 
 ### What is this?
-Yauc is an operating system made alone by me (GBX9570) as a hobbyist project. I can't dedicate too much time to this, because I am still in school - however I will add features and fix bugs as much as possible. It is planned to be a Unix-like operating system with no standout features (at the time of writing).
+Yanc is an operating system made alone by me (GBX9570) as a hobbyist project. I can't dedicate too much time to this, because I am still in school - however I will add features and fix bugs as much as possible. It is planned to be a custom design operating system with some ideas borrowed from Plan9
 
 **This is a *HOBBYIST* project! Do not expect professional quality in code, or frequent updates.**
 

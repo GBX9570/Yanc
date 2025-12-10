@@ -9,10 +9,3 @@ void cmain(void) {
 	ok("GDT is loaded!");
 	fatal("Nothing else to do.");
 }
-
-#include <stdio.h>
-
-int main(void) {
-	printf("Hello, World!!\n");
-	return 0;
-}
